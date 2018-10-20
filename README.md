@@ -1,2 +1,3 @@
 # hello-word
-discription information
+描述信息
+yyyy
